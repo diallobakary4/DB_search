@@ -5,8 +5,6 @@ __email__ = "diallobakary4@gmail.com"
 #NCBI data extraction using Eutilities and Python
 # More details "https://www.ncbi.nlm.nih.gov/books/NBK25498/
 
-__author__ = "Bakary N'tji Diallo"
-__email__ = "diallobakary4@gmail.com"
 
 import requests
 
